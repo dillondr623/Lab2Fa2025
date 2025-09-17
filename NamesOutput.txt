@@ -1,6 +1,0 @@
-Enter your first name: Dillon
-Enter your middle name: David
-Enter your last name: Roberto
-
-My name is: Dillon David Roberto
-My initials are: DDR
